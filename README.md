@@ -1,6 +1,6 @@
 # react-badword
 
-A React hook filter badwords
+A React hook for filter badwords
 
 
 ## Installation
