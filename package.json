@@ -1,7 +1,7 @@
 {
   "author": "Cao Kha Hieu",
   "name": "react-badword",
-  "version": "2.1.2",
+  "version": "2.1.3",
   "description": "A React hook for filter badwords",
   "homepage": "https://github.com/CaoKhaHieu/react-badword",
   "main": "dist/index.js",
