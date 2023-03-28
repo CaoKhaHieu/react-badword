@@ -1,7 +1,9 @@
 {
+  "author": "Cao Kha Hieu",
   "name": "react-badword",
-  "version": "2.0.2",
-  "description": "",
+  "version": "2.1.2",
+  "description": "A React hook for filter badwords",
+  "homepage": "https://github.com/CaoKhaHieu/react-badword",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "scripts": {
@@ -14,7 +16,13 @@
     "type": "git",
     "url": "https://github.com/CaoKhaHieu/react-badword"
   },
-  "author": "",
+  "keywords": [
+    "react",
+    "badword",
+    "filter",
+    "word",
+    "bad"
+  ],
   "license": "ISC",
   "dependencies": {
     "react": "^17.0.2",
