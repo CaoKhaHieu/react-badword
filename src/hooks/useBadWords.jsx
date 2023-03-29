@@ -1,5 +1,4 @@
-import { useEffect } from 'react';
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import { badWordsList } from '../data/badwords.js';
 
 const createBadWordsRegex = (badwords) => {
